@@ -21,19 +21,19 @@
                       "dest":3001
                   },
                   {
-                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-vless",
+                      "path":"/vless",
                       "dest":3002
                   },
                   {
-                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-vmess",
+                      "path":"/vmess",
                       "dest":3003
                   },
                   {
-                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-trojan",
+                      "path":"/trojan",
                       "dest":3004
                   },
                   {
-                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-shadowsocks",
+                      "path":"/shadowsocks",
                       "dest":3005
                   }
               ]
