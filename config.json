@@ -11,7 +11,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18",
+                      "id":"fc281139-23ec-4a38-b3de-17814a72e0f0",
                       "flow":"xtls-rprx-direct"
                   }
               ],
@@ -21,19 +21,19 @@
                       "dest":3001
                   },
                   {
-                      "path":"/vless",
+                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-vless",
                       "dest":3002
                   },
                   {
-                      "path":"/vmess",
+                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-vmess",
                       "dest":3003
                   },
                   {
-                      "path":"/trojan",
+                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-trojan",
                       "dest":3004
                   },
                   {
-                      "path":"/shadowsocks",
+                      "path":"/fc281139-23ec-4a38-b3de-17814a72e0f0-shadowsocks",
                       "dest":3005
                   }
               ]
@@ -49,7 +49,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18"
+                      "id":"fc281139-23ec-4a38-b3de-17814a72e0f0"
                   }
               ],
               "decryption":"none"
@@ -66,7 +66,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18",
+                      "id":"fc281139-23ec-4a38-b3de-17814a72e0f0",
                       "level":0,
                       "email":"argo@xray"
                   }
@@ -97,7 +97,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18",
+                      "id":"fc281139-23ec-4a38-b3de-17814a72e0f0",
                       "alterId":0
                   }
               ]
@@ -125,7 +125,7 @@
           "settings":{
               "clients":[
                   {
-                      "password":"de04add9-5c68-8bab-950c-08cd5320df18"
+                      "password":"fc281139-23ec-4a38-b3de-17814a72e0f0"
                   }
               ]
           },
@@ -154,7 +154,7 @@
               "clients":[
                   {
                       "method":"chacha20-ietf-poly1305",
-                      "password":"de04add9-5c68-8bab-950c-08cd5320df18"
+                      "password":"fc281139-23ec-4a38-b3de-17814a72e0f0"
                   }
               ],
               "decryption":"none"
